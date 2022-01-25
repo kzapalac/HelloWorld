@@ -16,3 +16,6 @@ Also it would be nice to add a list. Here we go:
 2. Oranges
 3. Bananas
 4. Music
+
+## Additional ReadME information
+[More info](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
