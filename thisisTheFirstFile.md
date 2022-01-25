@@ -23,6 +23,7 @@ The file contains text. No code. The file has the extension .md. The exstension 
 
 ***All this text is important***
 
+🙂
 
 Here is a link to more formatting options using MarkDown: [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
